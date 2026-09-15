@@ -1,7 +1,7 @@
 ---
-title: "Baseball"
+title: "Major League Baseball"
 ---
 
-This is a Quarto website.
+Welcome! This site explores the history of Major League Baseball through its data, using the Lahman database.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The Lahman database provides historical records on players, teams, batting, pitching, and awards dating back to 1871. Through data visualization and statistical summaries, we examine long-term trends and milestones across more than a century of professional baseball.
