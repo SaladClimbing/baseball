@@ -1,5 +1,5 @@
 ---
-title: "Major League Baseball"
+title: "Baseball"
 ---
 
 Welcome! This site explores the history of Major League Baseball through its data, using the Lahman database.
